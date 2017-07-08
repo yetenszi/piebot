@@ -1547,14 +1547,14 @@ a.box:active {
 
 .button.is-warning.is-outlined {
   background-color: transparent;
-  border-color: #ffdd57;
-  color: #ffdd57;
+  border-color: white;
+  color: white;
 }
 
 .button.is-warning.is-outlined:hover, .button.is-warning.is-outlined:focus {
-  background-color: #ffdd57;
-  border-color: #ffdd57;
-  color: rgba(0, 0, 0, 0.7);
+  background-color: white;
+  border-color: white;
+  color: rgba(0, 0, 0, 1);
 }
 
 .button.is-warning.is-outlined.is-loading:after {
