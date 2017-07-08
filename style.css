@@ -80,4 +80,8 @@ html {
   .nav .nav-item {
 	  display logo: none;
 	}
+	
+  #invite {
+	 	margin-right: 57px; 
+	}
 }
