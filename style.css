@@ -77,17 +77,7 @@ html {
 
 
 @media (max-width: 767px) {
-  .nav .nav-item .open .dropdown-menu > li > a {
-    color: #ecf0f1;
-  }
-  .nav .nav-item .open .dropdown-menu > li > a:hover,
-  .navt .nav-item .open .dropdown-menu > li > a:focus {
-    color: #ffbbbc;
-  }
-  .nav .nav-item .open .dropdown-menu > .active > a,
-  .nav .nav-item .open .dropdown-menu > .active > a:hover,
-  .nav .nav-item .open .dropdown-menu > .active > a:focus {
-    color: #ffbbbc;
-    background-color: #c0392b;
-  }
+  .nav .nav-item {
+	  display: none;
+	}
 }
